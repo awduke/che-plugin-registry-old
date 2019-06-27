@@ -1,3 +1,4 @@
+apiVersion: v2
 publisher: ms-k8s-tools
 name: vscode-k8s-tools
 version: 0.1.17

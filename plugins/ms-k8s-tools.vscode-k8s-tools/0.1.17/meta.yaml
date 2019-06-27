@@ -1,4 +1,4 @@
-id: ms-k8s-tools.vscode-k8s-tools
+apiVersion: v2
 version: 0.1.17
 type: VS Code extension
 name: Kubernetes
